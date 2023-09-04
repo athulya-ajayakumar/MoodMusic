@@ -6,15 +6,6 @@ This project is about building a music recommendation system for users who want 
 
 <br>
 
-### Links
-
-- [The web application](http://rasbt.pythonanywhere.com)
-- [The data collection IPython notebook](code/collect_data/data_collection.ipynb)
-- [The initial model training IPython notebook](code/classify_lyrics/nb_init_model.ipynb)
-- [The updated model training with white lists IPython notebook](code/classify_lyrics/nb_whitelist_model.ipynb)
-- [Experiments with Random Forests IPython notebook](code/classify_lyrics/random_forests.ipynb)
-- [A keynote presentation about this project](https://speakerdeck.com/rasbt/musicmood-machine-learning-in-automatic-music-mood-prediction-based-on-song-lyrics)
-
 
 <br>
 <br>
