@@ -14,7 +14,7 @@ This project is about building a music recommendation system for users who want 
 - [The updated model training with white lists IPython notebook](code/classify_lyrics/nb_whitelist_model.ipynb)
 - [Experiments with Random Forests IPython notebook](code/classify_lyrics/random_forests.ipynb)
 - [A keynote presentation about this project](https://speakerdeck.com/rasbt/musicmood-machine-learning-in-automatic-music-mood-prediction-based-on-song-lyrics)
-- [A more technical report on arXiv](https://arxiv.org/abs/1611.00138)
+
 
 <br>
 <br>
@@ -43,7 +43,6 @@ This project is about building a music recommendation system for users who want 
 [back to top](#sections)
 
 - A 10,000-song subset was downloaded from the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset).
-- Lyrics were automatically downloaded from [LyricWikia](http://lyrics.wikia.com/Lyrics_Wiki) and all songs for which lyrics have not been available were removed from the dataset.
  - An English language filter was applied to detect and remove all non-English songs.
  -  The remaining songs were randomly subsampled into a 1000-song training dataset and 200-song validation dataset.
 
